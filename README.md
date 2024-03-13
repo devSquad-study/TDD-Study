@@ -1,13 +1,16 @@
 # 📝 java-vengdingmachine-precourse
 
-> https://github.com/woowacourse/java-vendingmachine-precourse 의 내용을 활용하였습니다.
-
-## 💬 미션 소개
-
-> 우아한 테크코스 프리코스의 vendingmachine을 활용한 문제입니다. 
+> 우아한 테크코스 프리코스의 [vendingmachine](https://github.com/woowacourse/java-vendingmachine-precourse)을 활용한 문제입니다. 
 미션소개는 전부 동일하지만, TDD 스터디를 위해 아래의 프로그래밍 요구사항을 추가하였습니다. 그 부분 잘 읽으시고 미션 진행해주세요~!
 >
 > 미션을 100% 다 해내지 못하셔도 괜찮습니다. TDD스터디인 만큼 TDD를 지키면서 설계할 수 있는 것을 목표로 미션을 구현해주세요!
+
+## 💬 미션 소개
+
+> 브랜치 mission#1 에 해당 미션내용을 올려두었습니다. 
+>
+> 각자 자기이름의 브랜치(mission#1-baekeunsun)를 파서 mission#1브랜치에 PR 올리는 방식으로 진행하겠습니다 
+(이 방법은 향후에 변경될 수 있음)
 
 - 미션 소개
 
